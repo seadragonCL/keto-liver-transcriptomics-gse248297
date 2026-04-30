@@ -1,0 +1,11 @@
+metric,value
+samples_total_downloaded,15
+samples_analyzed_after_excluding_contaminated,14
+genes_in_raw_count_matrix,56980
+genes_after_low_count_filter,15063
+keto_vs_control_FDR_0.05,2432
+keto_vs_control_FDR_0.05_absLFC_0.58,1656
+keto_higher_FDR_0.05_absLFC_0.58,998
+keto_lower_FDR_0.05_absLFC_0.58,538
+hallmark_terms_FDR_0.25,35
+go_gsea_terms_FDR_0.25,842
